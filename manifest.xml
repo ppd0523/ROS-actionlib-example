@@ -4,7 +4,7 @@
      learning_actionlib
 
   </description>
-  <author>mohanarajah gajamohan</author>
+  <author>Eitan Marder-Eppstein, Vijay Pradeep</author>
   <license>BSD</license>
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/learning_actionlib</url>
