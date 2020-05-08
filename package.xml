@@ -4,8 +4,8 @@
   <version>0.0.0</version>
   <description>package</description>
 
-  <maintainer email="esteve AT osrfoundation DOT org">Esteve Fernandez</maintainer>
 
+  <maintainer email="estev@osrfoundation.org">Estev Fernandez</maintainer>
   <license>BSD</license>
 
   <buildtool_depend>catkin</buildtool_depend>
